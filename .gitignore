@@ -348,3 +348,9 @@ MigrationBackup/
 
 # Ionide (cross platform F# VS Code tools) working folder
 .ionide/
+
+# Bootcamp Ignore
+src/Resources/Merge/Result/*.dll
+src/Resources/Merge/*.dll
+src/Resources/Merge/*.pdb
+src/Resources/Merge/*.snk
